@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sanjay Ramagiri 👋</h1>
 
 <p align="center">
-  <em>Full Stack Developer · CS Undergrad at MIST Hyderabad · Building scalable web apps</em>
+  <em>Full Stack Developer · CS graduate at MIST Hyderabad · Building scalable web apps</em>
 </p>
 
 <p align="center">
