@@ -1,49 +1,91 @@
-<h1 align="center">Hi there, I'm Sanjay Ramagiri 👋</h1>
+<h1 align="center">Hi, I'm Sanjay Ramagiri 👋</h1>
 
 <p align="center">
-  <em>Frontend Developer · React Enthusiast · Building clean, user-first web experiences</em>
+  <em>Full Stack Developer · CS Undergrad at MIST Hyderabad · Building scalable web apps</em>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Sanjay-ramagiri">
-    <img src="https://img.shields.io/github/followers/Sanjay-ramagiri?label=Follow&style=social" alt="GitHub Followers" />
+  <a href="https://linkedin.com/in/sanjay-ramagiri">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Sanjay-ramagiri&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="mailto:ramagiri.offcl@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Sanjay-ramagiri">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Sanjay-ramagiri&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 🙋‍♂️ About Me
 
-- 🎯 Frontend Developer passionate about building **responsive, accessible, and performant** web apps
-- ⚛️ I love working with **React / Next.js** and crafting pixel-perfect UI with **HTML, CSS & Vanilla JS**
-- 🌱 Currently deepening my skills in **React ecosystem, REST APIs & UI/UX best practices**
-- 💼 Actively looking for my **first frontend developer role** — open to full-time & internship opportunities
-- 📍 Based in **Hyderabad, India**
-- 💬 Ask me about **React, JavaScript, CSS layouts, or anything frontend!**
-- 📫 Reach me at: [GitHub](https://github.com/Sanjay-ramagiri)
+- 🎓 **B.Tech CSE Graduate** from **Mahaveer Institute of Science and Technology, Hyderabad** (Class of 2026)
+- 💻 Passionate about **Full Stack Web Development** — from pixel-perfect frontends to robust backend APIs
+- ⚛️ Skilled in **React.js, Node.js, Express.js, MySQL** and modern web technologies
+- 🔐 Interested in **cybersecurity concepts**, secure coding practices, and web application protection
+- 🤖 Built automation tools using **Python & external APIs**
+- 🌱 Currently leveling up in **scalable system design & advanced React patterns**
+- 📫 Reach me at: **ramagiri.offcl@gmail.com** | 📞 9133124749
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Markup**
+**Languages**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Frameworks & Libraries**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-**Tools & Platforms**
+**Databases & Tools**
 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+### 🗂️ Full Stack Task Management App
+> React.js · Node.js · Express.js · MySQL
+
+A complete task management web app with authentication, CRUD operations, and a responsive UI.
+- Designed responsive UI using **React.js and modern CSS**
+- Built **REST APIs** with Node.js & Express for task operations
+- Integrated **MySQL** for storing user tasks and activity data
+- Implemented **user authentication** and version control via GitHub
+
+---
+
+### 🔐 SQL Injection Demonstration System
+> HTML · CSS · JavaScript · PHP · MySQL
+
+An educational cybersecurity project showcasing SQL injection attacks and defences.
+- Built a vulnerable login system to **demonstrate real SQL injection techniques**
+- Showcased **secure coding practices** and input validation methods
+- Improved understanding of **database security and web app protection**
+
+---
+
+### 🤖 Reddit Auto Poster Automation Tool
+> Python · PRAW API
+
+A Python automation script that publishes content automatically to Reddit.
+- Automated posting of **text and media to multiple subreddits**
+- Implemented **scheduling and subreddit targeting** features
+- Integrated with external APIs for efficient content distribution
 
 ---
 
@@ -60,31 +102,15 @@
 
 ---
 
-## 🚀 Projects
+## 🎯 Interests
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🔗 [Project Name](https://github.com/Sanjay-ramagiri) | Short description of what it does | React, CSS |
-| 🔗 [Project Name](https://github.com/Sanjay-ramagiri) | Short description of what it does | Next.js, JS |
-| 🔗 [Project Name](https://github.com/Sanjay-ramagiri) | Short description of what it does | HTML, CSS, JS |
-
-> 💡 *Replace the rows above with your actual projects!*
+🖊️ Tech Blogging &nbsp;|&nbsp; 💡 Coding Challenges &nbsp;|&nbsp; 🌐 IoT Devices &nbsp;|&nbsp; 🎨 UI/UX Design &nbsp;|&nbsp; 🧘 Mindful Productivity
 
 ---
 
-## 🤝 Let's Connect
+## 🌐 Languages
 
-<p align="left">
-  <a href="https://linkedin.com/in/sanjay-ramagiri" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Sanjay-ramagiri">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+🇬🇧 English — Proficient &nbsp;|&nbsp; 🇮🇳 Telugu — Proficient &nbsp;|&nbsp; 🇮🇳 Hindi — Proficient
 
 ---
 
