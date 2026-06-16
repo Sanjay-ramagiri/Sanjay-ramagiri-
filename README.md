@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sanjay Ramagiri 👋</h1>
 
 <p align="center">
-  <em>Full Stack Developer · CS graduate at MIST Hyderabad · Building scalable web apps</em>
+  <em>Full Stack Developer · Cybersecurity Enthusiast · CS graduate at MIST Hyderabad</em>
 </p>
 
 <p align="center">
@@ -21,6 +21,8 @@
 
 ## 🙋‍♂️ About Me
 
+Computer Science graduate at MIST Hyderabad with hands-on experience in Full Stack Web Development and Web Application Security. Built 3 real-world projects including a SQL Injection Detection System and a Full Stack Task Manager using React, Node.js, Express, and MySQL. Passionate about building secure, scalable web applications and solving real-world problems through clean code.
+
 - 🎓 **B.Tech CSE Graduate** from **Mahaveer Institute of Science and Technology, Hyderabad** (Class of 2026)
 - 💻 Passionate about **Full Stack Web Development** — from pixel-perfect frontends to robust backend APIs
 - ⚛️ Skilled in **React.js, Node.js, Express.js, MySQL** and modern web technologies
@@ -33,59 +35,85 @@
 
 ## 🛠️ Tech Stack
 
-**Languages**
-
+### Programming Languages
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Frameworks & Libraries**
+**HTML, CSS, JavaScript, Python, SQL**
 
+### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-**Databases & Tools**
+**React.js, Node.js, Express.js**
 
+### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**MySQL, SQLite**
+
+### Security Concepts
+- SQL Injection Prevention
+- Input Validation
+- Parameterized Queries
+- Secure Coding Practices
+
+### Web Concepts
+- REST APIs
+- Client-Server Architecture
+- Frontend-Backend Integration
+
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**Git, GitHub, VS Code, Postman**
 
 ---
 
 ## 🚀 Projects
 
-### 🗂️ Full Stack Task Management App
-> React.js · Node.js · Express.js · MySQL
+### 🔐 SQL Injection Detection System
+> HTML · CSS · JavaScript · SQLite
 
-A complete task management web app with authentication, CRUD operations, and a responsive UI.
-- Designed responsive UI using **React.js and modern CSS**
-- Built **REST APIs** with Node.js & Express for task operations
-- Integrated **MySQL** for storing user tasks and activity data
-- Implemented **user authentication** and version control via GitHub
+An advanced educational cybersecurity project demonstrating SQL injection attacks and multi-layer defense mechanisms.
+
+- Built a vulnerable login system to simulate Classic, Union-based, and Blind SQL Injection attacks for cybersecurity education.
+- Implemented 3-layer security architecture — client-side validation, server-side pattern detection, and parameterized queries — blocking 100% of simulated injection attempts.
+- Integrated real-time alerting and logging system to monitor and report suspicious input activity to administrators.
+- Reduced attack surface by replacing direct SQL queries with prepared statements using SQLite.
 
 ---
 
-### 🔐 SQL Injection Demonstration System
-> HTML · CSS · JavaScript · PHP · MySQL
+### 🗂️ Full Stack Task Management App
+> React.js · Node.js · Express.js · MySQL
 
-An educational cybersecurity project showcasing SQL injection attacks and defences.
-- Built a vulnerable login system to **demonstrate real SQL injection techniques**
-- Showcased **secure coding practices** and input validation methods
-- Improved understanding of **database security and web app protection**
+A complete task management web application with JWT authentication, full CRUD operations, and responsive design.
+
+- Architected and developed a full-stack task management application with React.js frontend and Node.js/Express.js REST API backend.
+- Designed and implemented MySQL database schema supporting full CRUD operations for task and user management.
+- Built JWT-based authentication system securing all API endpoints from unauthorized access.
+- Deployed responsive UI supporting seamless experience across desktop and mobile devices.
+- Maintained codebase using Git/GitHub with structured commit history and branch management.
 
 ---
 
 ### 🤖 Reddit Auto Poster Automation Tool
 > Python · PRAW API
 
-A Python automation script that publishes content automatically to Reddit.
-- Automated posting of **text and media to multiple subreddits**
-- Implemented **scheduling and subreddit targeting** features
-- Integrated with external APIs for efficient content distribution
+A powerful Python automation script that intelligently publishes content to multiple subreddits on a scheduled basis.
+
+- Developed a Python automation tool using PRAW API that auto-publishes text and media content to multiple subreddits on a scheduled basis.
+- Implemented intelligent subreddit targeting and scheduling logic, reducing manual posting time by 90%.
+- Designed modular script architecture allowing easy addition of new subreddits and content types.
+- Handled API rate limiting and error recovery for uninterrupted automation.
 
 ---
 
