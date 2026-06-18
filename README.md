@@ -27,7 +27,7 @@
 - 🔐 Interested in **cybersecurity concepts**, secure coding practices, and web application protection
 - 🤖 Built automation tools using **Python & external APIs**
 - 🌱 Currently leveling up in **scalable system design & advanced React patterns**
-- 📫 Reach me at: **ramagiri.offcl@gmail.com** | 📞 9133124749
+- 📫 Reach me at: **ramagiri.offcl@gmail.com** |
 
 ---
 
